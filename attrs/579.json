@@ -1,0 +1,46 @@
+[
+  {
+    "trait_type": "Palette ID",
+    "value": 41
+  },
+  {
+    "trait_type": "Background Opacity",
+    "value": "0.2"
+  },
+  {
+    "trait_type": "Gradients / 1000",
+    "value": 800
+  },
+  {
+    "trait_type": "X Direction Force",
+    "value": 1000
+  },
+  {
+    "trait_type": "Y Direction Force",
+    "value": 0
+  },
+  {
+    "trait_type": "Wider Shapes / 1000",
+    "value": 0
+  },
+  {
+    "trait_type": "Complexity Level",
+    "value": 4
+  },
+  {
+    "trait_type": "Shape Type",
+    "value": "Circle"
+  },
+  {
+    "trait_type": "Shape StrokeWidth",
+    "value": 20
+  },
+  {
+    "trait_type": "Shape Filled",
+    "value": "False"
+  },
+  {
+    "trait_type": "Scales",
+    "value": ".6 | .6"
+  }
+]

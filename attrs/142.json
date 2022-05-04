@@ -1,0 +1,46 @@
+[
+  {
+    "trait_type": "Palette ID",
+    "value": 27
+  },
+  {
+    "trait_type": "Background Opacity",
+    "value": "0.6"
+  },
+  {
+    "trait_type": "Gradients / 1000",
+    "value": 1000
+  },
+  {
+    "trait_type": "X Direction Force",
+    "value": 1000
+  },
+  {
+    "trait_type": "Y Direction Force",
+    "value": 1000
+  },
+  {
+    "trait_type": "Wider Shapes / 1000",
+    "value": 0
+  },
+  {
+    "trait_type": "Complexity Level",
+    "value": 2
+  },
+  {
+    "trait_type": "Shape Type",
+    "value": "Rectangle"
+  },
+  {
+    "trait_type": "Shape StrokeWidth",
+    "value": 160
+  },
+  {
+    "trait_type": "Shape Filled",
+    "value": "False"
+  },
+  {
+    "trait_type": "Scales",
+    "value": ".3 | .7"
+  }
+]
